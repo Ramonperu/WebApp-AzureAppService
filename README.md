@@ -32,7 +32,7 @@ Además de poder configurar la integración/despliegue continuo para tu aplicaci
 
 #### Soporte integrado de escalado automático (escalado automático o scale-out basado en carga real) 
 
-El escalado hacia arriba/hacia abajo(mas recursos por ej, mas ram mas cores etc) o el escalado hacia fuera están integrados en la aplicación web. Dependiendo del uso de la aplicación web, puedes escalar tu aplicación hacia arriba/hacia abajo aumentando/disminuyendo los recursos de la máquina subyacente que está alojando tu aplicación web. Los recursos pueden ser el número de núcleos o la cantidad de RAM disponible.
+El escalado hacia arriba/hacia abajo o el escalado hacia fuera están integrados en la aplicación web. Dependiendo del uso de la aplicación web, puedes escalar tu aplicación hacia arriba/hacia abajo aumentando/disminuyendo los recursos de la máquina subyacente que está alojando tu aplicación web. Los recursos pueden ser el número de núcleos o la cantidad de RAM disponible.
 
 Por otro lado, el escalado hacia fuera es la capacidad de aumentar el número de instancias de máquina que están ejecutando tu aplicación web.
 
